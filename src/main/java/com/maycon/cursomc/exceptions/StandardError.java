@@ -1,4 +1,4 @@
-package com.maycon.cursomc.resources.exception;
+package com.maycon.cursomc.exceptions;
 
 import java.io.Serializable;
 

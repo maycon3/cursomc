@@ -1,4 +1,4 @@
-package com.maycon.cursomc.exceptions;
+package com.maycon.cursomc.resources.exception;
 
 public class ObjectNotFoundException extends RuntimeException {
 
